@@ -19,3 +19,4 @@ After a command:
 LEARN:
 •	"/öğren" to enter the learn function. Add a sentence and a bot response to the vocabulary.
 
+![learncommand](https://user-images.githubusercontent.com/32216376/43308253-a74ee54c-9189-11e8-9733-fe6b3acd5565.jpg)
