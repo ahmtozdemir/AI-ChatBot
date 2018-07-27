@@ -10,8 +10,12 @@ If a sentence contains:
 •	"hoş",”tamam”, "güzeldi", "iyiydi", "iyi", "doğru", "evet"
 •	"ne yapmam lazım", "bana tavsiye ver", "bana bir tavsiyen var mı", "tavsiye"
 •	" saat kaç", "saati söyler misin", "zaman"
+
+![chatbotapp](https://user-images.githubusercontent.com/32216376/43308164-49bb9fce-9189-11e8-8189-ce65cdf4e57c.jpg)
+
 The bot gets triggered.
 After a command:
 •	"google search_string" opens the default browser and searches for the following string -> in this case it would google for " desired word or sentence "
 LEARN:
 •	"/öğren" to enter the learn function. Add a sentence and a bot response to the vocabulary.
+
